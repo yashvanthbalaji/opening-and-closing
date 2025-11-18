@@ -69,7 +69,7 @@ import matplotlib.pyplot as plt
 def load_image():
     back_img =np.zeros((600,600))
     font = cv2.FONT_HERSHEY_SIMPLEX
-    cv2.putText(back_img,text='PRIYA',org=(50,300), fontFace=font,fontScale= 5,color=(255,255,255),thickness=25,lineType=cv2.LINE_AA)
+    cv2.putText(back_img,text='BALAJI',org=(50,300), fontFace=font,fontScale= 5,color=(255,255,255),thickness=25,lineType=cv2.LINE_AA)
     return back_img
 
 
