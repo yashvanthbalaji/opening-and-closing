@@ -109,31 +109,31 @@ display_image(closing)
 
 #### Input
 
-<img width="792" height="773" alt="image" src="https://github.com/user-attachments/assets/8e4fb828-b06f-44ce-8ba7-8493b71969f3" />
+<img width="706" height="690" alt="Screenshot 2025-11-18 084611" src="https://github.com/user-attachments/assets/63b4af87-1015-4063-b62b-cebbdad8dae5" />
 
 <br>
 
 #### White noise
 
-<img width="793" height="761" alt="image" src="https://github.com/user-attachments/assets/ec05b35a-78ab-4c37-9c10-573f8c7b369c" />
+<img width="694" height="679" alt="Screenshot 2025-11-18 084701" src="https://github.com/user-attachments/assets/bba11ce2-0a63-4d29-b353-cd58b6eb5697" />
 
 <br>
 
 ### Opening operation
 
-<img width="787" height="766" alt="image" src="https://github.com/user-attachments/assets/cc8c5765-53df-416b-8f2f-06e227eb91c8" />
+<img width="714" height="675" alt="Screenshot 2025-11-18 084743" src="https://github.com/user-attachments/assets/194b7f09-9b7b-4c02-93cb-f903088b8601" />
 
 <br>
 
 ### Black noise
 
-<img width="794" height="776" alt="image" src="https://github.com/user-attachments/assets/a51505d4-6655-4bb8-b3d1-aaadfd73f548" />
+<img width="701" height="687" alt="Screenshot 2025-11-18 084754" src="https://github.com/user-attachments/assets/18f30f45-09ab-4d40-bd72-54310d09107d" />
 
 <br>
 
 ### Closing operation
 
-<img width="771" height="777" alt="image" src="https://github.com/user-attachments/assets/29e95539-562d-4c15-bf5c-242a719437a4" />
+<img width="744" height="694" alt="Screenshot 2025-11-18 084836" src="https://github.com/user-attachments/assets/8811c56e-3090-4695-a52f-4f0298736532" />
 
 <br>
 
